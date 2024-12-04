@@ -1,2 +1,3 @@
-nginx:stable-alpine3.19
 nginx
+nginx:stable-alpine3.19
+node:16-alpine
