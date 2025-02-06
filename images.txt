@@ -2,3 +2,4 @@ nginx
 nginx:stable-alpine3.19
 node:16-alpine
 python:3.8-alpine3.19
+rockchin/langbot:latest
