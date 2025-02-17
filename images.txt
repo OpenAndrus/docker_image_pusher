@@ -4,3 +4,6 @@ node:16-alpine
 python:3.8-alpine3.19
 busybox
 rockchin/langbot:latest
+mysql:8.0.39
+valkey/valkey:8
+infiniflow/infinity:v0.6.0-dev3
