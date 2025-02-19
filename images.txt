@@ -10,3 +10,4 @@ infiniflow/infinity:v0.6.0-dev3
 infiniflow/ragflow_deps:latest
 infiniflow/ragflow:v0.16.0
 infiniflow/ragflow:v0.16.0-slim
+ubuntu:22.04
