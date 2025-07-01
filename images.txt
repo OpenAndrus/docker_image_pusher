@@ -1,3 +1,4 @@
+jeessy/ddns-go
 rustdesk/rustdesk-server
 xprobe/xinference:latest
 stalwartlabs/mail-server:latest
