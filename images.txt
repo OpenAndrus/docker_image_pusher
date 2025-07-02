@@ -1,12 +1,12 @@
+nginx:stable-alpine
+python:3.8-alpine
 jeessy/ddns-go
 rustdesk/rustdesk-server
 xprobe/xinference:latest
 stalwartlabs/mail-server:latest
 elasticsearch:8.11.3
 nginx
-nginx:stable-alpine3.19
 node:16-alpine
-python:3.8-alpine3.19
 busybox
 rockchin/langbot:latest
 mysql:8.0.39
