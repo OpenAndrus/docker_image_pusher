@@ -1,3 +1,5 @@
+python:3.11-slim
+nginx:alpine
 nginx:stable-alpine
 python:3.8-alpine
 jeessy/ddns-go
