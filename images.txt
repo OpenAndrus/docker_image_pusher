@@ -1,3 +1,12 @@
+wechatopenai/weknora-ui
+wechatopenai/weknora-app
+wechatopenai/weknora-docreader
+paradedb/paradedb:v0.18.9-pg17
+redis:7.0-alpine
+minio/minio
+jaegertracing/all-in-one
+neo4j:latest
+qdrant/qdrant:v1.16.2
 python:3.11-slim
 nginx:alpine
 nginx:stable-alpine
