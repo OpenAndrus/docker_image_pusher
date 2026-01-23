@@ -1,3 +1,4 @@
+xprobe/xinference:v1.17.1-cu129
 wechatopenai/weknora-ui
 wechatopenai/weknora-app
 wechatopenai/weknora-docreader
