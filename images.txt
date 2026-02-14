@@ -1,4 +1,6 @@
-quay.io/gpustack/runner:cuda12.9-vllm0.15.1
+gpustack/runner:cuda12.9-vllm0.15.1
+gpustack/gpustack:v2.0.3
+gpustack/runtime:pause
 xprobe/xinference:v1.17.1-cu129
 wechatopenai/weknora-ui
 wechatopenai/weknora-app
